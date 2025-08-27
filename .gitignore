@@ -138,6 +138,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+books_mongo_db_env
 env/
 venv/
 ENV/
